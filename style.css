@@ -1,0 +1,81 @@
+.mtop{
+
+    margin-top: 60px;
+}
+.hb{
+    font-size: 4rem;
+}
+.imgh{
+    height: 43rem;
+}
+.position{
+    position: absolute;
+}
+.pdiv{
+    position: relative;
+    background-image:url(./images/MWC-article_1120\ x\ 560_flipped2.jpg);
+}
+
+.bgb{
+    background-color: rgb(9, 9, 48);
+}
+.tx{
+    font-size: 14px;
+    color: gray;
+}
+.round{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid rgb(85, 82, 82);
+    padding: 6px;
+    padding-left: 10px;
+    color: white;
+    margin-right: 1.3rem;
+
+}
+.round:hover{
+    background-color: white;
+    color: black;
+}
+.bt{
+    background-color: rgb(9, 9, 48);
+    color: white;
+    width: 200px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.bt:hover{
+    color: lightblue;
+}
+.uls{
+    list-style: none;
+    padding: 0;
+}
+ul li{
+    margin-bottom: 20px;
+}
+.lh{
+    color: white;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.st{
+    font-size: 10px;
+    color: rgb(125, 126, 128);
+    margin-right: 15px;
+}
+.psd{
+   padding-bottom: 50px;
+}
+.meg{
+    margin-right: 15rem;
+}
+.hc{
+    height: 50vw;
+}
+.ho:hover{
+    color: rgb(57, 57, 160);
+}
